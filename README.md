@@ -1,5 +1,5 @@
 # My Resume
-resume.djalmaaraujo.com
+resume.viniciusgalvao.com.br
 
 ## Setup
 ```bash
