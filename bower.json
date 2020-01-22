@@ -2,11 +2,11 @@
   "name": "resume",
   "version": "0.0.1",
   "authors": [
-    "Djalma Araujo <djalma.araujo@gmail.com>"
+    "Vinícius Galvão <viniciusj16@gmail.com>"
   ],
   "description": "My Little Resume",
   "license": "MIT",
-  "homepage": "http://resume.djalmaaraujo.com",
+  "homepage": "http://www.viniciusgalvao.com.br/resume",
   "private": true,
   "ignore": [
     "**/.*",
